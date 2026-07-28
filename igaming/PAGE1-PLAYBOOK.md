@@ -74,5 +74,19 @@ Remaining on-page nits only:
 2. Week 2: top-gambling-ad-networks BCA-first rework; hreflang audit; hub on-page nits (single H1, ad-network/traffic phrasing, FAQ schema).
 3. Weeks 3–6: watch tracking set weekly, then start conquest content (STRATEGY.md Phase 3) once the foundation stops leaking. Do not judge the redesign before week 4.
 
+## Live SERP verification (2026-07-28, US desktop)
+
+Checked live: igaming marketing agency, igaming advertising, igaming ad network, casino advertising, buy gambling traffic, casino affiliate programs.
+
+**Confirmed:**
+- **"igaming ad network" is our best commercial SERP.** Fully commercial: ReachEffect's dedicated LP at #2, Match2One DSP page #5, adsnetwork.io industry page #14, TrafficStars product page #18 — product pages win here. **Our /post/top-gambling-ad-networks sits at #9 live** (better than GSC 28d averages suggested — likely already benefiting from recent changes). The hub page targeting "igaming ad network" is the right move.
+- **"buy gambling traffic" is a pure platform SERP**: TrafficNomads homepage #1, RichAds #2, HilltopAds' dedicated /igaming-traffic LP #15, TrafficStars /product/gambling-traffic #17. Our listicle is #22. Competitors win with **dedicated traffic LPs** — gap: we have no /gambling-traffic or buy-traffic-targeted section. Fold "buy gambling/igaming traffic" into the hub or ship a dedicated LP.
+- Cannibalization diagnosis unchanged — it's structural, not SERP-specific.
+
+**Corrected assumptions:**
+1. **"casino advertising" (head term) — DEPRIORITIZE as a primary target.** Live SERP is fragmented: Google's ads policy #1, Pinterest, Reddit, Wikipedia, YouTube, and **land-based** casino agencies (LT Agency, Good Giant). No online-platform page in top 20. The B2B-online intent we serve is a minority of this SERP; ceiling is low regardless of what we do. Target "casino ad network" / "casino traffic" phrasings instead; keep the examples post for the examples-intent slice only.
+2. **"casino affiliate programs" — consolidation alone won't win it; the format is wrong.** Live SERP = affiliate program operators (N1 Partners #6, Alpha Affiliates #8, LivePartners #10) and program directories/listicles (StatsDrone #3, 15m, affcatalog, GPWA). Searchers are affiliates choosing programs to join. Our #22 page is a "what is casino affiliate marketing" guide — intent mismatch. Fix: still do the 301 merge, but ALSO reformat the surviving page as "Best Casino Affiliate Programs (2026)" — a real program listicle with payout models (CPA/RevShare/hybrid) — with a "where to buy traffic for these offers" bridge to the hub. These searchers are media buyers, i.e. our actual ICP.
+3. **"igaming advertising" (head term) is mixed intent** — regulation bodies (AdStandards, AGCO, Meta policy) share the SERP with platforms (Vizibl's platform page holds #4). A platform page CAN rank (Vizibl proves it), but the hub's realistic primary wins are "igaming ad network" + "igaming advertising platform" + traffic terms, with "igaming advertising" as secondary.
+
 ## Flag (separate from iGaming, but urgent)
 "blockchain-ads.com is a scam" gets 1,991 impressions/28d across 20 pages. /reviews ranks pos 3.4 — decent defense, but this reputation SERP deserves its own workstream.
