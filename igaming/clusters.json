@@ -26,7 +26,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Fragmented SERP: Indeed job listings (DR92), Sportradar's marketing-services product page, agency strategy blog posts (DataArt, low-DR Team Catalyst DR5), an academic NIH paper and an agency listicle, with a Medium UGC post in the top 10. No single format owns the query.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "best casino affiliate programs",
@@ -73,7 +76,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": 13,
-  "bca_url": "/post/casino-affiliate-marketing"
+  "bca_url": "/post/casino-affiliate-marketing",
+  "serp_theme": "Affiliate program directories and listicles dominate (BusinessofApps, AffPaying, AskGamblers, StatsDrone) alongside program operators' own homepages (Alpha Affiliates, LivePartners) and an ad-network blog listicle (RichAds). Reddit at #3 and YouTube in the top 10 show Google rewarding UGC here.",
+  "winning_format": "program directory / listicle",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "igaming affiliate marketing platform",
@@ -123,7 +129,10 @@
   "theme": "Affiliate B2B software",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate-SaaS vendors win with blog guides and comparison posts (Tracknow, iRev, Voluum, Affise) plus product homepages (Affilka); a DR6 exact-match domain (igamingaffiliates.io) ranks #2, signalling a beatable SERP.",
+  "winning_format": "vendor blog guide",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "online gambling affiliate marketing",
@@ -180,7 +189,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Core",
   "bca_best_pos": 13,
-  "bca_url": "/post/casino-affiliate-marketing"
+  "bca_url": "/post/casino-affiliate-marketing",
+  "serp_theme": "How-to guides and program listicles from ad-network/tracker blogs (RichAds, Voluum) and affiliate directories (BusinessofApps, StatsDrone, BettingUSA) fill the page; Reddit holds #1 and YouTube also ranks, a clear UGC weakness.",
+  "winning_format": "how-to guide / listicle",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "sports betting advertising",
@@ -212,7 +224,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": 11,
-  "bca_url": "/post/igaming-ad-examples"
+  "bca_url": "/post/igaming-ad-examples",
+  "serp_theme": "High-DR news outlets (Guardian, ESPN), industry-association trend reports (American Gaming Association), and academic/ethics pieces (NIH, Brooklyn Law) own the SERP; nothing commercial ranks and Reddit sits mid-page.",
+  "winning_format": "news / research articles",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "igaming marketing agency",
@@ -248,7 +263,10 @@
   "theme": "Agency-intent capture",
   "best_fit": "High",
   "bca_best_pos": 14,
-  "bca_url": "/post/igaming-marketing-agency"
+  "bca_url": "/post/igaming-marketing-agency",
+  "serp_theme": "Split between iGaming agency landing pages (Luvkaizen DR28, igaming.agency DR0.7, ICS Digital) and 'top agencies' listicles (Absolute Digital, HilltopAds, DR10 Redclawey); many low-DR domains plus a LinkedIn company page in the top 10 make this a soft SERP.",
+  "winning_format": "agency landing page / listicle",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "gambling ads",
@@ -277,7 +295,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": 14,
-  "bca_url": "/post/igaming-ad-examples"
+  "bca_url": "/post/igaming-ad-examples",
+  "serp_theme": "Consumer-facing SERP: Reddit complaints at #1, GambleAware and UK Gambling Commission pages on limiting/opting out of gambling ads, Wikipedia, and news coverage. Searchers here are mostly annoyed consumers, not advertisers.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "igaming seo agency",
@@ -299,7 +320,10 @@
   "theme": "Agency-intent capture",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "iGaming SEO agency landing pages dominate, mostly low-DR (tbd.media DR27, Qwerty Labs DR15, Naturallinks DR38) alongside GeekyTech (DR75); Trustpilot and a LinkedIn company page also rank, confirming a weak, winnable SERP.",
+  "winning_format": "agency landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "gambling advertising",
@@ -333,7 +357,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": 42,
-  "bca_url": "/post/igaming-ad-examples"
+  "bca_url": "/post/igaming-ad-examples",
+  "serp_theme": "Policy and reference pages rule: Google Ads and Meta ad-policy documentation, UK Parliament research briefing, Wikipedia, AGA ad-spend PDF and news; Reddit appears mid-page. All-high-DR institutional SERP with no commercial players.",
+  "winning_format": "policy documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "casino marketing",
@@ -364,7 +391,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Core",
   "bca_best_pos": 18,
-  "bca_url": "/post/casino-marketing-strategies"
+  "bca_url": "/post/casino-marketing-strategies",
+  "serp_theme": "Land-based-leaning mix of Indeed jobs (#1), how-to guides from martech blogs (iPost, MoEngage, Cvent) and casino agency pages (Good Giant, LT Agency, DR7 Casino Marketing Bootcamp); a LinkedIn page also ranks.",
+  "winning_format": "how-to guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "gambling marketing agency",
@@ -401,7 +431,10 @@
   "theme": "Agency-intent capture",
   "best_fit": "High",
   "bca_best_pos": 15,
-  "bca_url": "/post/igaming-marketing-agency"
+  "bca_url": "/post/igaming-marketing-agency",
+  "serp_theme": "Agency directories are the power players (Semrush Agencies DR92, Clutch DR91, Influencer Marketing Hub) interleaved with individual agency landing pages (Bird, LT Agency, Straight North, low-DR Velocity/Good Giant) and a LinkedIn UGC result.",
+  "winning_format": "agency directory / listicle",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "igaming marketing",
@@ -427,7 +460,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Highly fragmented: an agency landing page, tactic articles on niche industry sites (WA Technology, DR21 Grou Global), a HilltopAds listicle, job pages (ZipRecruiter, DR1.7 igamingcareers) and LinkedIn Pulse UGC. Several sub-DR30 domains rank \u2014 weak SERP with unsettled intent.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "how to start a online casino business",
@@ -447,7 +483,10 @@
   "theme": "Operator setup",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Step-by-step how-to guides from iGaming platform providers (SoftGamings, Sirplay, Genome, iGamingBusiness/TrueLabel, RichAds) and a law-services explainer; Reddit holds #1, exposing a UGC gap.",
+  "winning_format": "how-to guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "google ads gambling policy news",
@@ -485,7 +524,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "Core",
   "bca_best_pos": 7,
-  "bca_url": "/post/gambling-ads-google-policy"
+  "bca_url": "/post/gambling-ads-google-policy",
+  "serp_theme": "Google's own policy doc at #2, followed by blockchain-ads.com's post at #3, industry news coverage (MediaPost, SBC Americas, Bettors Insider) and a RichAds blog post; YouTube and Reddit round out the top 10. News-plus-policy SERP where BCA already ranks.",
+  "winning_format": "news + policy doc",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "igaming traffic",
@@ -516,7 +558,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": 22,
-  "bca_url": "/post/top-gambling-ad-networks"
+  "bca_url": "/post/top-gambling-ad-networks",
+  "serp_theme": "Ad networks win with dedicated traffic landing pages and blog guides (RichAds /igaming-traffic, TrafficNomads DR27, Voluum, AffPapa guide, low-DR Z2A Digital); Reddit and YouTube both sit in the top 10 \u2014 a buyable SERP with UGC softness.",
+  "winning_format": "ad-network landing page / blog",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "casino advertising campaign",
@@ -550,7 +595,10 @@
   "theme": "Ad examples & creatives",
   "best_fit": "Core",
   "bca_best_pos": 10,
-  "bca_url": "/post/gambling-advertising"
+  "bca_url": "/post/gambling-advertising",
+  "serp_theme": "Creative-inspiration SERP: example galleries (Pinterest, Behance, Ads of the World, iSpot.tv) and campaign listicles (Everything-PR, RichAds creatives post) dominate, with heavy UGC (Pinterest, YouTube playlist) in the top 10.",
+  "winning_format": "creative example gallery / listicle",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming crm marketing solutions",
@@ -577,7 +625,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "CRM SaaS vendor product pages (Optimove, Solitics, Groovetech) and vendor listicles (DR25 OptiKPI) rank alongside Reddit and Medium UGC and very low-DR sites (DR4.4 Quettaspins) \u2014 a weak vendor-selection SERP.",
+  "winning_format": "product landing page / listicle",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "promote online casino",
@@ -606,7 +657,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Platform policy pages top the SERP (Facebook Business Help #1, Meta ad standards, Google Ads policy), followed by promotion-tips listicles from vendors (Selzy, PartnerMatrix, RichAds ad-network listicle, BusinessofApps, Altenar). Compliance-first, then how-to.",
+  "winning_format": "policy pages + how-to listicle",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "casino affiliate marketing software",
@@ -629,7 +683,10 @@
   "theme": "Affiliate B2B software",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate-software vendors own the SERP with product pages (EveryMatrix PartnerMatrix #1, Affilka, Income Access) and vendor blog explainers (Track360 glossary, iRev, Smartico, Affise); solid mid-to-high DR throughout.",
+  "winning_format": "product landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "casino advertising",
@@ -649,7 +706,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": 19,
-  "bca_url": "/post/casino-advertising-examples"
+  "bca_url": "/post/casino-advertising-examples",
+  "serp_theme": "UGC-riddled and fragmented: Pinterest boards at #1 and #4, a YouTube playlist, Wikipedia, plus a RichAds guide, an agency page (LT Agency) and a First Amendment law article. No commercial format has consolidated this SERP.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "casino marketing ideas",
@@ -673,7 +733,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": 18,
-  "bca_url": "/post/casino-marketing-strategies"
+  "bca_url": "/post/casino-marketing-strategies",
+  "serp_theme": "Idea/tips listicles on martech and vendor blogs win outright (Geotargetly, iPost, Odds On Promotions DR29, Selzy, Tegna, DR22 J Carcamo, MoEngage) \u2014 a classic listicle SERP with mostly mid-DR domains.",
+  "winning_format": "blog listicle",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming meaning",
@@ -693,7 +756,10 @@
   "theme": "Vertical general",
   "best_fit": "Low",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Definitional content wins: Wikipedia, glossary pages (Endava, Track-style), 'what is iGaming' guides (RichAds, Aeropay, Sportsbetting Dime, DR29 Global Advisory Experts), with Reddit and LinkedIn UGC also ranking.",
+  "winning_format": "definition guide / glossary",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming ads",
@@ -715,7 +781,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": 13,
-  "bca_url": "/post/igaming-ad-examples"
+  "bca_url": "/post/igaming-ad-examples",
+  "serp_theme": "Ad networks and ad-tech blogs dominate: ReachEffect's iGaming LP at #1, Voluum and RichAds posts, BusinessofApps creative best practices, and blockchain-ads.com's iGaming ad examples post at #10; low-DR vizibl.ai (DR8) also ranks.",
+  "winning_format": "ad-network landing page / blog",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "casino affiliate marketing system",
@@ -734,7 +803,10 @@
   "theme": "Affiliate B2B software",
   "best_fit": "Low",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Explainer guides from iGaming platform vendors (RichAds beginners guide, SoftSwiss, BetConstruct) mixed with the BusinessofApps directory and affiliate-program pages (PartnerMatrix, Affnook, Alpha Affiliates); Reddit sits mid-page.",
+  "winning_format": "how-to guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "gambling marketing",
@@ -754,7 +826,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Research-institution SERP: academic papers (NIH, ScienceDirect, ResearchGate-tier), UK Gambling Commission advertising rules, and industry PDFs (Responsible Gambling Council, AGA ad-spend). All high-DR; only Selzy, Elit-web and RichAds represent commercial content.",
+  "winning_format": "research / regulatory reports",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "sports betting marketing",
@@ -775,7 +850,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Academic and industry-research results lead (NIH #1, ResearchGate, AGA trend report) with strategy blog posts (DataArt, Elit-web) and Sportradar's product page mixed in \u2014 a reference-heavy SERP where commercial pages struggle above mid-page.",
+  "winning_format": "research + strategy blog",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "casino affiliate programme",
@@ -793,7 +871,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Program operators' signup pages win (LivePartners, Paddy Power Partnerships, Neto Partners) alongside directories (BusinessofApps) and guides (Track360, RichAds, SoftSwiss); a LinkedIn company page at #1 shows SERP weakness.",
+  "winning_format": "program signup pages",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "igaming ads networks",
@@ -821,7 +902,10 @@
   "theme": "Ad network / platform",
   "best_fit": "Core",
   "bca_best_pos": 4,
-  "bca_url": "/post/top-gambling-ad-networks"
+  "bca_url": "/post/top-gambling-ad-networks",
+  "serp_theme": "'Best iGaming ad networks' listicles on ad-network blogs win (Kadam, RichAds, DR12 AllinAffiliates, blockchain-ads.com's top-gambling-ad-networks at #10) plus network landing pages (ReachEffect #1, TrafficNomads); several sub-DR15 domains rank, including DR0 taroviser.",
+  "winning_format": "blog listicle",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "best igaming affiliate software",
@@ -839,7 +923,10 @@
   "theme": "Affiliate B2B software",
   "best_fit": "Low",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Comparison listicles on affiliate-SaaS vendor blogs dominate (iRev, Voluum, Trackdesk, Tracknow, Track360, DR30 aff.tech) with product pages (Everflow, EveryMatrix PartnerMatrix) filling out; Reddit ranks #4.",
+  "winning_format": "comparison listicle",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "gambling advertising news",
@@ -856,7 +943,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Pure news SERP owned by top-tier outlets (BBC #1, Reuters, Washington Post, The Conversation) plus AGA and an NIH paper \u2014 uniformly very high DR, essentially unassailable without a news angle.",
+  "winning_format": "news articles",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "gambling traffic",
@@ -882,7 +972,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": 14,
-  "bca_url": "/post/top-gambling-ad-networks"
+  "bca_url": "/post/top-gambling-ad-networks",
+  "serp_theme": "Ad networks win with vertical landing pages and how-to blogs (TrafficNomads DR27 at #1, Clickadu gambling-traffic LP, RichAds, Voluum, betting.partners); Reddit and a Semrush trending page also rank. Low-DR #1 signals an open SERP.",
+  "winning_format": "ad-network landing page / blog",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "sports betting marketing agency",
@@ -910,7 +1003,10 @@
   "theme": "Agency-intent capture",
   "best_fit": "High",
   "bca_best_pos": 16,
-  "bca_url": "/post/igaming-marketing-agency"
+  "bca_url": "/post/igaming-marketing-agency",
+  "serp_theme": "Agency landing pages rank despite tiny authority (bvcompany.org DR5 holds #1 and #10, Square in the Air DR31, Samba Digital) beside the Semrush agency directory, Sportradar's services page and LinkedIn Pulse UGC \u2014 a notably weak SERP.",
+  "winning_format": "agency landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "igaming affiliate list",
@@ -931,7 +1027,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate directories win (iGB Affiliate directory, AffCatalog, AffPapa, DR21 AffSecret, aff.studio) plus a RichAds listicle; Reddit sits at #5. Directory format plus mid-DR field.",
+  "winning_format": "program directory",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "marketing automation igaming",
@@ -954,7 +1053,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Vendor product/solution pages rank (OptiKPI, Wizards, Kanggiten, Optimove) alongside a Track360 guide, but the SERP is strikingly weak: DR1 icatalyft at #2, DR4.7 cognaix, and a LinkedIn job posting all crack the top 10.",
+  "winning_format": "product landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "seo casino marketing",
@@ -977,7 +1079,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Casino-SEO agency landing pages win, including exact-match low-DR domains (seocasinomarketing.com DR3.1, seo.casino, DR3 Marqade) plus GeekyTech and directories (Semrush, DesignRush); a LinkedIn company page ranks #2 \u2014 soft SERP.",
+  "winning_format": "agency landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "facebook gambling ads",
@@ -1006,7 +1111,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": 13,
-  "bca_url": "/post/advertising-online-gambling-on-facebook"
+  "bca_url": "/post/advertising-online-gambling-on-facebook",
+  "serp_theme": "Meta's own properties dominate \u2014 three facebook.com help/business pages plus transparency.meta ad standards \u2014 with a Hunch how-to, GambleAware and Rest of World coverage; Reddit and BlackHatWorld UGC also rank.",
+  "winning_format": "policy documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "email marketing for casino and gambling industry",
@@ -1033,7 +1141,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Email SaaS vendors win with industry solution pages and strategy guides (iPost holds three slots, UniOne, Selzy, Litmus, Evenbet); low-DR guides (DR7 Casino Marketing Bootcamp, DR16 Marketing Results) and a YouTube video also rank.",
+  "winning_format": "vendor solution page / guide",
+  "serp_intent": "mixed"
  },
  {
   "parent": "white label igaming",
@@ -1059,7 +1170,10 @@
   "theme": "Affiliate B2B software",
   "best_fit": "Low",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Platform providers' product pages lead (Aristocrat Interactive #1, Gamingtec, BetConstruct, DR0.5 OHS Gaming) with provider listicles (Kodedice, AllinAffiliates, Smartico) and a SoftSwiss definition page; Reddit and LinkedIn UGC appear low in the top 10.",
+  "winning_format": "product landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "casino marketing software",
@@ -1079,7 +1193,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Land-based casino-management software SERP: a SoftwareReviews category page at #1, vendor product pages (Agilysys, Infor, CT Gaming, DR9 MRI AIM, DR21 Playersoft) and a Smartico listicle; YouTube ranks #9. Skews CMS/ops, not advertising.",
+  "winning_format": "product landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "casino traffic",
@@ -1098,7 +1215,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Totally fragmented, non-advertising SERP: foot-traffic sensor vendor (#1 Sensource), local news traffic plans, weather cams, three YouTube results, Trustpilot, and 'betting on live traffic' novelty coverage. No advertiser intent visible.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "personalized marketing for igaming",
@@ -1115,7 +1235,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "B2B SaaS and consultancy blog thought-leadership sweeps the SERP (Optimove, Dynamic Yield, Intellias, Symphony Solutions, Nuxgame, Track360, DR26 Rapidpace); one LinkedIn Pulse UGC result. Pure vendor-education play.",
+  "winning_format": "vendor blog article",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming affiliate companies",
@@ -1140,7 +1263,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate networks' own pages (Gambling-Affiliation, n1.partners), directories (iGB Affiliate, DR13 AffCaptain) and listicles from ad-tech blogs (RichAds, Voluum) share the SERP with a Paysafe resource page; Reddit ranks #3.",
+  "winning_format": "directory / listicle",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "betting traffic",
@@ -1161,7 +1287,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Split-intent oddity: 'traffic betting' novelty content (Reddit #2, Trustpilot review of cctv-game.live, Instagram, Bitcointalk, Sigma news) collides with ad-network pages (RichAds /betting-traffic LP, TrafficGuard). Heavy UGC and no settled meaning.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "igaming trends",
@@ -1178,7 +1307,10 @@
   "theme": "Vertical general",
   "best_fit": "Low",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Trend-report articles from iGaming platform vendors win (Kodedice, Rapyd, SoftSwiss report, Symphony Solutions, RichAds) plus the AGA revenue tracker and a LinkedIn Pulse piece \u2014 annual-roundup reference content.",
+  "winning_format": "trend report / blog",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "affiliate marketing software for sportsbook",
@@ -1196,7 +1328,10 @@
   "theme": "Affiliate B2B software",
   "best_fit": "Low",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate-SaaS vendor blog and glossary pages dominate (Track360 holds three slots, DR16 Intelitics, Affilka, Post Affiliate Pro) with the StatsDrone directory and a 1xBet affiliates post \u2014 vendor-education SERP with modest competition.",
+  "winning_format": "vendor blog / glossary",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "gambling ads traffic",
@@ -1220,7 +1355,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Ad networks win with vertical landing pages (Pushground, AADS) and how-to blogs (Voluum, RichAds, Adcash); X's gambling ads policy, Reddit, Instagram, and a spammy stck.me post also rank \u2014 commercial SERP with soft spots.",
+  "winning_format": "ad-network landing page / blog",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "gambling influencer marketing",
@@ -1242,7 +1380,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Mixed authority SERP: legal/research pieces lead (IMGL magazine #1, Greo, NIH) followed by agency pages (DR37 Famesters, Luvkaizen), an influencer list (Viral Nation), the Semrush directory, and LinkedIn/Reddit UGC.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "sports betting advertising regulation",
@@ -1257,7 +1398,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Regulators and industry bodies own it: NY Gaming Commission #1, Mass.gov regulation text, AGA marketing code, Meta ad standards, plus ESPN news and a law-school analysis. Nearly all DR70-92 \u2014 a true compliance-reference SERP.",
+  "winning_format": "policy documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "igaming traffic purchase online advertising",
@@ -1274,7 +1418,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Ad-network 'where to buy iGaming traffic' blog guides dominate (PropellerAds, AdRoll, seo.casino, Z2A) plus traffic landing pages (ReachEffect, HilltopAds); Quora is the lone UGC entry. Directly monetizable buy-traffic SERP.",
+  "winning_format": "ad-network blog guide",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "meta ads policy gambling news",
@@ -1292,7 +1439,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Meta's own policy/help pages hold multiple slots (facebook.com #1, two transparency.meta pages) with trade news filling the rest (SBC Americas, iGaming Expert, Reuters) and a LinkedIn post; policy-doc-plus-news SERP.",
+  "winning_format": "policy documentation + news",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "crypto casino ads",
@@ -1316,7 +1466,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Fragmented: a Behance creative gallery at #1, blockchain-ads.com's own crypto-gambling LP at #4, AADS's casino-advertising LP, near-zero-DR marketing blogs (Adspires DR0, Scale with Ascend DR0, Coinpresso DR26), Rolling Stone news and Reddit. Weak, unconsolidated SERP BCA already touches.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "best practices for igaming ads",
@@ -1333,7 +1486,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Industry-body guidelines and policy docs win: IAB creative-guidelines PDF, Ad Standards Canada, AGA marketing code, Meta ad standards, plus BusinessofApps' creative best-practices post and an NIH paper; one DR22 agency post ranks.",
+  "winning_format": "guidelines documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "igaming marketing software",
@@ -1348,7 +1504,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "SaaS vendors dominate: tracker/CRM product pages (voluum.com, optimove.com, bloomreach.com) mixed with affiliate-software vendor blogs (track360.io, affise.com, irev.com, aff.tech) and an f6s.com software directory. All commercial DR 30-83, no UGC.",
+  "winning_format": "product landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "crypto casino affiliate program",
@@ -1365,7 +1524,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": 13,
-  "bca_url": "/post/casino-affiliate-marketing"
+  "bca_url": "/post/casino-affiliate-marketing",
+  "serp_theme": "Mix of affiliate-program listicles (track360.io, businessofapps.com, affpapa.com), program signup/landing pages of operators (n1.partners, starzpartners.com, cloudbet.com/affiliates) and the affpaying.com directory; a Reddit thread ranks #2, signalling a beatable SERP with mid-DR players (DR 37-86).",
+  "winning_format": "listicle + program signup pages",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "gambling push ads",
@@ -1391,7 +1553,10 @@
   "theme": "Ad network / platform",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Push/pop ad-network blogs own this SERP: richads.com case studies and guides, pushground.com and roiads.co landing/blog pages, adcash.com; heavy UGC presence (Reddit r/PPC, afflift forum, YouTube) shows low competition. Format is how-to/case-study blog posts from networks selling the traffic.",
+  "winning_format": "ad-network blog guide",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "online casino advertising networks for publishers",
@@ -1411,7 +1576,10 @@
   "theme": "Ad network / platform",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Ad-network 'best gambling ad networks' listicles dominate (richads.com, blockchain-ads.com already at #3, hilltopads.com, trafficnomads.com, betconstruct.com) alongside network landing pages (aads.com, pushground.com, reacheffect.com); Reddit and LinkedIn UGC in top 10 confirm a soft SERP.",
+  "winning_format": "blog listicle",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "crypto casino traffic",
@@ -1429,7 +1597,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Fragmented SERP of crypto-marketing agency landing pages (coinpresso.io, seo.casino), ad-network product pages (aads.com, cointraffic.com), affiliate blog guides (affpapa.com, scaleo.io) and a gpwa.org forum thread at #3; many low-DR sites (DR 16-38) and forum/YouTube UGC signal weak competition.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "igaming affiliate roas benchmarks",
@@ -1450,7 +1621,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate-software and tracker blogs (track360.io, irev.com, voluum.com, affnook.com, maxweb.com, partnermatrix.com) publish benchmark/data posts; very low-DR pages rank high (redclawey.com DR 10 at #2, smsedge.com DR 8) plus YouTube/Reddit UGC \u2014 a soft data-driven SERP.",
+  "winning_format": "data/benchmark blog post",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "casino pay per click marketing",
@@ -1472,7 +1646,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "PPC agency service pages (elit-web.com, optimum7.com, ppcjuice.com, circusppc.com, wiredmedia.co.uk) and agency-directory listings (clutch.co DR 91) compete with tracker blogs (voluum.com, clickguard.com, propellerads.com); LinkedIn UGC and DR 3-15 domains in top 10 show weakness.",
+  "winning_format": "agency service page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "igaming google ads",
@@ -1491,7 +1668,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Google's own policy documentation ranks #1 (support.google.com DR 99) but the rest is thin: a Reddit AMA at #2, low-DR agency pages (ppcjuice.com DR 3), tracker blog (voluum.com) and LinkedIn posts \u2014 very shallow SERP beyond the policy page.",
+  "winning_format": "policy doc + how-to guides",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "tiktok advertising policy gambling",
@@ -1513,7 +1693,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "TikTok's own help-center policy articles occupy most positions (ads.tiktok.com help pages), padded by BlackHatWorld and Reddit threads and one DR 32 blog guide \u2014 platform documentation is the answer, with only UGC as third-party competition.",
+  "winning_format": "policy documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "responsible gambling advertising",
@@ -1528,7 +1711,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "All high-DR authority: regulators and industry bodies (gamblingcommission.gov.uk, americangaming.org, bettingandgamingcouncil.com, massgaming.com), academic papers (pmc.ncbi.nlm.nih.gov) and research PDFs. Zero commercial players and zero UGC \u2014 a hard, informational/regulatory SERP.",
+  "winning_format": "policy documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "revshare gambling affiliate program",
@@ -1545,7 +1731,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate directories and listicles (businessofapps.com, zorbasmedia.com, 1xbetaffiliates.net) mixed with explainer posts on CPA-vs-revshare from affiliate-software vendors (track360.io, irev.com) and operator program blogs (n1.partners, roiads.co); one Reddit thread in top 10.",
+  "winning_format": "listicle + explainer post",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "bitcoin casino affiliate program",
@@ -1562,7 +1751,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "A Reddit thread ranks #1, followed by affiliate-program directories (affpaying.com, postaffiliatepro.com, 15m.com), listicles (affpapa.com, affnook.com) and direct program signup pages (alpha-affiliates.com, nowpayments.io) \u2014 directory/listing formats win on a soft SERP.",
+  "winning_format": "program directory/listicle",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "performance marketing casino",
@@ -1580,7 +1772,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Fragmented mix of small casino-marketing agencies (vallomedia.com DR 27, playerperformancegroup.com DR 19) and general casino-marketing strategy guides (moengage.com, alphametic.com, elit-web.com), plus a LinkedIn post and casinovendors.com directory listing \u2014 no dominant format, mostly land-based casino angle.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "casino player acquisition",
@@ -1598,7 +1793,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "B2B iGaming supplier pages and blogs (sportradar.com, netrefer.com, theaffiliateplatform.com, igaming.createit.com) mixed with off-topic results (law firm M&A page, Wikipedia, Quora, investor news) \u2014 an unfocused SERP where strategy-guide content from platform vendors wins.",
+  "winning_format": "vendor blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "converting casino traffic into players",
@@ -1622,7 +1820,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Very weak SERP: DR 0-26 sites (affiliace.digital, rapidpace.com, marqade.com) plus LinkedIn/Quora/YouTube UGC rank alongside ad-network blog guides (richads.com, reacheffect.com, voluum.com); conversion/how-to blog posts win with almost no authority competition.",
+  "winning_format": "how-to guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "gambling affiliate traffic",
@@ -1640,7 +1841,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate-network and tracker blogs (tracknow.io, roiads.co, richads.com, betting.partners, pmaffiliates.com) publish traffic-source guides; affiliatefix forum thread and Reddit in top 10 plus a DR 6 site show low competition.",
+  "winning_format": "blog guide (traffic sources)",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "casino media buying",
@@ -1659,7 +1863,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Fragmented: job listings (indeed.com), Reddit thread, casinovendors.com supplier directory, agency pages (bird.marketing, designrush.com directory) and iGaming media-buying guides (affise.com, betboyz.com DR 13); no clear winning format \u2014 intent splits between hiring, agencies and how-to.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "best practices for casino ads",
@@ -1676,7 +1883,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Split between high-DR policy/regulatory pages (support.google.com, transparency.meta.com, gamblingcommission.gov.uk, an NCBI paper) and practitioner guides from agencies/media (tegna.com, elit-web.com, licensegentlemen.com); a Reddit AMA sits in the top 10. Compliance-aware best-practice guides win.",
+  "winning_format": "how-to guide + policy docs",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "affiliate casino traffic tools",
@@ -1695,7 +1905,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Affiliate-tooling vendors and directories rank: businessofapps.com casino list at #1, tracking-software pages (trafficmanager.com, affilka.com), tool listicles (smartico.ai, allinaffiliates.com DR 12) and ad-network blogs (richads.com); Quora and Reddit UGC in top 10 signal softness.",
+  "winning_format": "tool listicle",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "adsterra alternative",
@@ -1712,7 +1925,10 @@
   "theme": "Competitor alternatives",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Competitor ad-network listicles (richads.com, monetag.com, propellerads.com) and software-review directories (capterra.com DR 91) compete with Adsterra's own 'alternatives' blog posts ranking for its brand; one Reddit thread. Classic alternatives-listicle SERP.",
+  "winning_format": "alternatives listicle",
+  "serp_intent": "compare options (listicle)"
  },
  {
   "parent": "igaming influencer marketing",
@@ -1732,7 +1948,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Very weak SERP: influencer-agency landing pages and blogs (famesters.com DR 37, luvkaizen.com, awisee.com) mixed with DR 0.7-16 blogs, Reddit and LinkedIn UGC \u2014 no authority owns this; agency service pages and guides both rank.",
+  "winning_format": "agency page / blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming marketing guide",
@@ -1750,7 +1969,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Long-form 'complete guide' blog posts from affiliate-software and ad-network vendors (tracknow.io, irev.com, richads.com, bloomreach.com gated guide) plus low-DR agency blogs (rainmakeragency.ai, smsedge.com DR 8, envisioner.io DR 14) \u2014 beatable guide-format SERP.",
+  "winning_format": "long-form guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "social media marketing for gambling",
@@ -1767,7 +1989,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Dominated by academic and public-interest research (bristol.ac.uk report, Springer, NCBI, theguardian.com, bi.team, greo.ca) on gambling-ad harms plus Meta's help page \u2014 a high-DR harm-focused informational SERP, not a practitioner one; hard for commercial content.",
+  "winning_format": "research report/news",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "sweepstakes casino marketing",
@@ -1785,7 +2010,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "A DR 2.6 agency page ranks #1 (tentenseven.com) ahead of industry-body data (americangaming.org), vendor strategy blogs (tecpinion.com, gammastack.com, optimove.com, richads.com) and a LinkedIn post at #2 \u2014 extremely soft SERP won by strategy guides and agency pages.",
+  "winning_format": "strategy blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "online casino marketing funnel",
@@ -1804,7 +2032,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Casino-marketing strategy guides from agencies and martech vendors (alphametic.com, elit-web.com, selzy.com, moengage.com, cvent.com, scaleo.io funnel post); #1 is a DR 24 blog (translationroyale.com) and YouTube ranks mid-page \u2014 funnel/strategy blog posts win a soft SERP.",
+  "winning_format": "strategy blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "revshare for igaming affiliate programs",
@@ -1822,7 +2053,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Explainer posts from affiliate-software vendors (track360.io, irev.com, voluum.com, affcatalog.com glossary) plus businessofapps.com revshare listicle and richads.com program listicle; LinkedIn and Reddit UGC in top 10.",
+  "winning_format": "explainer blog post",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming social media marketing",
@@ -1839,7 +2073,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Small specialist agency pages (andava.com, socialtrend.co.uk, luvkaizen.com) and vendor blog tips (incomeaccess.com, bgaming.com, voluum.com) with a LinkedIn article at #3 \u2014 low-competition SERP split between agency service pages and tips posts.",
+  "winning_format": "agency page / tips post",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "online gambling marketing solution",
@@ -1854,7 +2091,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Fragmented: agency directories (agencies.semrush.com, topdevelopers.co), academic papers (NCBI, sciencedirect.com), strategy blogs (aads.com, alphametic.com) and SaaS solution pages (optimove.com) \u2014 mixed intent with no dominant format.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "sweepstakes casino affiliate program",
@@ -1871,7 +2111,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Program directories and listicles win: businessofapps.com, mylead.global, zorbasmedia.com, 15m.com, plus track360.io educational hub pages and goaffiliates.com signup page at #1 (DR 39); a Reddit thread at #2 shows softness.",
+  "winning_format": "program directory/listicle",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "best practices for casino player acquisition",
@@ -1890,7 +2133,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Retention/acquisition strategy blog posts from iGaming platform vendors and agencies (selzy.com, everymatrix.com, lt.agency, moengage.com, track360.io glossary); YouTube and Quora UGC in the top 10 and low-DR entrants (envisioner.io DR 14) make it beatable.",
+  "winning_format": "strategy blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "social media marketing for betting",
@@ -1905,7 +2151,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Research and news dominate (bristol.ac.uk, NCBI, norc.org, espn.com) but practitioner content ranks too (contentstadium.com content-ideas post, smartico.ai strategies, elit-web.com) \u2014 hybrid SERP leaning informational with high-DR studies.",
+  "winning_format": "research + strategy posts",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "esports betting marketing",
@@ -1922,7 +2171,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "B2B esports-odds and platform vendors (oddin.gg, gr8.tech, rebelbetting.com), market-research reports (businessresearchinsights.com) and industry media (sigma.world, digiday.com) \u2014 all mid-to-high DR blog/strategy content, no UGC; guide posts from suppliers win.",
+  "winning_format": "vendor blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "media buying igaming",
@@ -1942,7 +2194,10 @@
   "theme": "Traffic buying",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Weak, fragmented SERP: two Reddit threads and a LinkedIn company page in the top 5, job boards (indeed.com, djinni.co), one affise.com guide and a DR 13 blog at #2 \u2014 how-to content from vendors barely competes with UGC and jobs listings.",
+  "winning_format": "mixed/fragmented",
+  "serp_intent": "mixed"
  },
  {
   "parent": "igaming advertising trends 2026",
@@ -1960,7 +2215,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Trend-report roundups from iGaming suppliers and ad networks (bgaming.com, richads.com, softwaremind.com, evenbetgaming.com), industry-body data (americangaming.org), appsflyer.com report and a SOFTSWISS report on Scribd \u2014 annual trends listicle format wins.",
+  "winning_format": "trends report/listicle",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "pop-under traffic for betting campaigns",
@@ -1978,7 +2236,10 @@
   "theme": "Ad network / platform",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Pop/push ad networks own the SERP with explainer and buy pages (richads.com what-is post, reacheffect.com buy-popunder page, roiads.co, activerevenue.com, kadam.net, lospollos.com) plus businessofapps.com; a BlackHatWorld thread and DR 11 site in top 10 confirm low difficulty.",
+  "winning_format": "ad-network explainer/landing",
+  "serp_intent": "buy traffic / choose platform"
  },
  {
   "parent": "us sports betting advertising spend 2023",
@@ -1996,7 +2257,10 @@
   "theme": "Advertising (general)",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "High-DR data sources dominate: americangaming.org report and PDF at #2-3, trade press (sbcamericas.com, emarketer.com, espn.com) and statistics hubs (rg.org); LinkedIn and Facebook posts fill the tail. A stats/data-report SERP.",
+  "winning_format": "data report/statistics page",
+  "serp_intent": "industry reference"
  },
  {
   "parent": "hilltopads alternative",
@@ -2014,7 +2278,10 @@
   "theme": "Competitor alternatives",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Software-review directories dominate (g2.com, capterra.com, getapp.ca DR 57-91) alongside HilltopAds' own pages ranking for its brand, a comparison page (adspyglass.com) and monetag.com listicle; Reddit and YouTube in top 10.",
+  "winning_format": "review-directory alternatives page",
+  "serp_intent": "compare options (listicle)"
  },
  {
   "parent": "propellerads alternative",
@@ -2031,7 +2298,10 @@
   "theme": "Competitor alternatives",
   "best_fit": "Core",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "PropellerAds' own domain holds four spots (its 'alternatives to X' blog posts plus homepage), with richads.com competitor listicle at #2, review directories (g2.com, cuspera.com) and a Reddit thread \u2014 alternatives listicles and review pages win.",
+  "winning_format": "alternatives listicle",
+  "serp_intent": "compare options (listicle)"
  },
  {
   "parent": "guide to compliant gambling advertising",
@@ -2048,7 +2318,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Regulator and industry-body documentation leads (gamblingcommission.gov.uk, americangaming.org, adstandards.ca, Xiaomi platform policy) but commercial compliance guides also rank (richads.com, adspyder.io, oddsindex.com DR 36); one Quora thread \u2014 compliance-guide content can compete.",
+  "winning_format": "policy docs + compliance guide",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "microsoft advertising gambling policy",
@@ -2065,7 +2338,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Microsoft's own properties monopolize the SERP (about.ads.microsoft.com policy pages, forms and change logs, learn.microsoft.com \u2014 DR 96) with only searchenginejournal.com and a small consultancy commenting; effectively unwinnable brand-policy SERP.",
+  "winning_format": "policy documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "taboola advertising policy gambling",
@@ -2083,7 +2359,10 @@
   "theme": "Compliance & platform policy",
   "best_fit": "High",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Platform policy pages dominate: Taboola's own casino/gambling policy FAQ and playbook PDF, plus Meta, AdRoll and NY gaming-commission policy pages; Reddit and YouTube fill gaps \u2014 official documentation is what ranks.",
+  "winning_format": "policy documentation",
+  "serp_intent": "policy / compliance reference"
  },
  {
   "parent": "igaming affiliate fraud",
@@ -2100,7 +2379,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Fraud-prevention and KYC vendors own it with explainer blogs (group-ib.com, sumsub.com, gbg.com, paysafe.com, bluepear.net) plus affiliate-software posts (irev.com); all solid DR 38-81 except one Instagram post \u2014 educational vendor content wins.",
+  "winning_format": "vendor explainer post",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "performance marketing igaming",
@@ -2117,7 +2399,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Split SERP: affiliate-marketing explainers from trackers (voluum.com #1, irev.com, richads.com) and agency pages (sambadigital.com, lengreo.com list) against job boards (ziprecruiter.com, igamingcareers.co) \u2014 guide content wins the marketing intent.",
+  "winning_format": "blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming affiliate cpa per ftd range",
@@ -2135,7 +2420,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Benchmark/rate explainer posts from affiliate-software and network blogs (bigbetty.io CPA-tiers post, track360.io, partnermatrix.com, propellerads.com, voluum.com, affnook.com glossary); DR 8-13 sites rank (smsedge.com #2, affcaptain.com) \u2014 soft data-oriented SERP.",
+  "winning_format": "data/benchmark blog post",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "igaming marketing attribution platform",
@@ -2153,7 +2441,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Attribution SaaS vendors rank with product/solution pages (intelitics.com DR 16, singular.net, adjust.com, violetgrowth.com) and software listicles/guides (affise.com, hockeystack.com, track360.io learn hub); low-DR specialists at the top signal a winnable vendor SERP.",
+  "winning_format": "product landing page",
+  "serp_intent": "choose vendor/tool"
  },
  {
   "parent": "casino affiliate program cpa",
@@ -2168,7 +2459,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Program directories and comparison pages (businessofapps.com, statsdrone.com, affpaying.com) plus payout-model explainers (irev.com, track360.io glossary) and a program landing page (alpha-affiliates.com); no UGC, mid-high DR.",
+  "winning_format": "program directory/explainer",
+  "serp_intent": "join affiliate program"
  },
  {
   "parent": "crypto casino marketing strategies",
@@ -2187,7 +2481,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Weak SERP of crypto/iGaming agency blogs (surgence.io, coinpresso.io, kolhq.com DR 4) with blockchain-ads.com already at #6, a LinkedIn pulse at #4 and a podcast page at #3 \u2014 low-DR strategy guides win easily.",
+  "winning_format": "strategy blog guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "guide to casino affiliate marketing",
@@ -2204,7 +2501,10 @@
   "theme": "Affiliate programs & marketing",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Beginner-guide blog posts from affiliate software and ad networks (irev.com, richads.com, softswiss.com, statsdrone.com) plus niche sites (mercurytheme.com, highstakesdb.com, paylinedata.com); YouTube at #5 \u2014 long-form guides win.",
+  "winning_format": "long-form guide",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "casino sms marketing",
@@ -2226,7 +2526,10 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "SMS-platform vendor pages and blogs dominate (clickatell.com, springbig.com, smsedge.com academy, texcellsms.com, optikpi.com) with a DR 11 page at #1 (mamonty.com) and LinkedIn in the tail \u2014 very soft vendor-content SERP.",
+  "winning_format": "vendor blog/service page",
+  "serp_intent": "learn / how-to"
  },
  {
   "parent": "sports betting email marketing",
@@ -2244,6 +2547,9 @@
   "theme": "Marketing strategy & guides",
   "best_fit": "Medium",
   "bca_best_pos": null,
-  "bca_url": null
+  "bca_url": null,
+  "serp_theme": "Email-platform and list vendors rank (litmus.com industry page at #2, hotsol.net, mailcheck.co, dmdatabases.com list page, bvcompany.org DR 5 service page) plus a UNLV thesis and YouTube \u2014 fragmented, low-DR, easily winnable.",
+  "winning_format": "vendor guide/service page",
+  "serp_intent": "learn / how-to"
  }
 ]
