@@ -44,10 +44,14 @@
 | igaming marketing agency | /post/igaming-marketing-agency | Keep the listicle; reframe intro: "need a platform instead of an agency?" → /igaming-advertising. BCA platform gets the #1 spot. |
 | crypto ad network | /crypto-advertising | De-optimize homepage/publishers for this term; /post/best-web3-ad-networks links to /crypto-advertising as #1. |
 
-### Step 2 — Rebuild /igaming-advertising as a true hub
-- Title: "iGaming Advertising Platform | Reach 250M+ Gambling Users" (platform, not agency).
-- Sections mirroring what SERP winners have + what they can't fake: traffic sources & formats, GEO coverage, casino/sportsbook/poker sub-sections, real case studies (Betpanda, Casino Punkz — both already get branded search impressions), CPM/CPA benchmarks from platform data, compliance (Google/Meta restrictions → why platforms like ours), FAQ with schema.
-- Dual CTA: launch campaign (self-serve) + book a call.
+### Step 2 — /igaming-advertising hub — ✅ MOSTLY DONE (redesigned 2026-07-26)
+Verified live 2026-07-28: platform positioning ("Advertising Platform for iGaming"), case studies with hard numbers (BC.Game, 1win, Stake $250 CPA, Roobet $23 CPA, Dafabet), 17-question FAQ, channel links, 3.5–4k words. This satisfies the hub requirement — do NOT rebuild again.
+
+Remaining on-page nits only:
+- Two H1s detected ("Advertising Platform for iGaming" + "Drive user acquisition...") — keep exactly one H1.
+- Query coverage gap: page targets "igaming advertising platform" but demand clusters around **"igaming ad network"** and **"igaming traffic" / "buy gambling traffic"** (the surging terms). Work these phrases into H2s/FAQ copy naturally (e.g. FAQ: "Is Blockchain-Ads an iGaming ad network or a DSP?", "Can I buy gambling traffic on a CPA basis?").
+- Add FAQPage schema markup if not present (17 FAQs already written — free win).
+- IMPORTANT: two days post-redesign is too early for ranking movement; Google needs 2–6 weeks. Judge the redesign no earlier than week 4 — but its effect stays capped until cannibalization (Steps 1, 3, 4) is resolved.
 
 ### Step 3 — Contextual internal linking (the relevance funnel)
 - Every iGaming post: 1–2 in-content links to /igaming-advertising with commercial anchors (vary them), placed in the first half of the article.
@@ -65,10 +69,10 @@
 - Tracking set: igaming advertising / ads / ad network / traffic, buy gambling traffic, casino advertising, gambling ads, casino affiliate programs, best gambling ad networks, igaming marketing agency.
 - Expect: 2–3 weeks for consolidation signals (301s recrawled), movement weeks 3–6. If a merged query cluster doesn't improve by week 6, the merge target was wrong — revisit.
 
-## Sequence
-1. Week 1: 301 gambling-affiliate-program merge; retitle/de-overlap the casino/gambling/igaming ads trio; differentiate the two money pages; contextual links from all posts → hub.
-2. Week 2: /igaming-advertising rebuild; top-gambling-ad-networks BCA-first rework; hreflang audit.
-3. Weeks 3–6: watch tracking set weekly, then start conquest content (STRATEGY.md Phase 3) once the foundation stops leaking.
+## Sequence (revised — hub redesign already shipped)
+1. Week 1: 301 gambling-affiliate-program merge; retitle/de-overlap the casino/gambling/igaming ads trio; differentiate /crypto-gambling-betting from /igaming-advertising; contextual in-content links from all iGaming posts → hub.
+2. Week 2: top-gambling-ad-networks BCA-first rework; hreflang audit; hub on-page nits (single H1, ad-network/traffic phrasing, FAQ schema).
+3. Weeks 3–6: watch tracking set weekly, then start conquest content (STRATEGY.md Phase 3) once the foundation stops leaking. Do not judge the redesign before week 4.
 
 ## Flag (separate from iGaming, but urgent)
 "blockchain-ads.com is a scam" gets 1,991 impressions/28d across 20 pages. /reviews ranks pos 3.4 — decent defense, but this reputation SERP deserves its own workstream.
