@@ -78,13 +78,13 @@
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "best casino affiliate programs",
-  "size": 25,
-  "volume": 6060,
-  "fruits": 57,
+  "size": 24,
+  "volume": 6010,
+  "fruits": 56,
   "bca_pos": 13,
   "fit": "Medium",
-  "novelty_pct": 57,
-  "new_urls": 25,
+  "novelty_pct": 55,
+  "new_urls": 23,
   "status": "existing",
   "url": "/post/casino-affiliate-marketing",
   "members": [
@@ -108,7 +108,6 @@
    "best igaming affiliate programs",
    "best gambling affiliate program",
    "best casino affiliate marketing software",
-   "live casino affiliate program",
    "affiliate program online casino",
    "best online casino affiliate program",
    "online gambling affiliate program",
@@ -214,24 +213,6 @@
  },
  {
   "ig_rank": 7,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "popunder ads",
-  "size": 1,
-  "volume": 2900,
-  "fruits": 1,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 7,
-  "status": "new",
-  "url": "/post/popunder-ads",
-  "members": [
-   "popunder ads"
-  ]
- },
- {
-  "ig_rank": 8,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "sports betting advertising",
@@ -257,7 +238,7 @@
   ]
  },
  {
-  "ig_rank": 9,
+  "ig_rank": 8,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "casino marketing",
@@ -282,7 +263,7 @@
   ]
  },
  {
-  "ig_rank": 10,
+  "ig_rank": 9,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "google ads gambling policy news",
@@ -314,7 +295,7 @@
   ]
  },
  {
-  "ig_rank": 11,
+  "ig_rank": 10,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "gambling marketing agency",
@@ -345,7 +326,7 @@
   ]
  },
  {
-  "ig_rank": 12,
+  "ig_rank": 11,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "gambling advertising",
@@ -373,25 +354,7 @@
   ]
  },
  {
-  "ig_rank": 13,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "programmatic advertising platform",
-  "size": 1,
-  "volume": 1300,
-  "fruits": 1,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 8,
-  "status": "new",
-  "url": "/post/programmatic-advertising-platform",
-  "members": [
-   "programmatic advertising platform"
-  ]
- },
- {
-  "ig_rank": 14,
+  "ig_rank": 12,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "casino advertising campaign",
@@ -419,43 +382,7 @@
   ]
  },
  {
-  "ig_rank": 15,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "ad networks for advertisers",
-  "size": 1,
-  "volume": 1000,
-  "fruits": 1,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 9,
-  "status": "new",
-  "url": "/post/ad-networks-for-advertisers",
-  "members": [
-   "ad networks for advertisers"
-  ]
- },
- {
-  "ig_rank": 16,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "native advertising platform",
-  "size": 1,
-  "volume": 880,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 8,
-  "status": "new",
-  "url": "/post/native-advertising-platform",
-  "members": [
-   "native advertising platform"
-  ]
- },
- {
-  "ig_rank": 17,
+  "ig_rank": 13,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming seo agency",
@@ -474,7 +401,7 @@
   ]
  },
  {
-  "ig_rank": 18,
+  "ig_rank": 14,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "igaming traffic",
@@ -499,25 +426,7 @@
   ]
  },
  {
-  "ig_rank": 19,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "self serve ad platform",
-  "size": 1,
-  "volume": 720,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 86,
-  "new_urls": 6,
-  "status": "new",
-  "url": "/post/self-serve-ad-platform",
-  "members": [
-   "self serve ad platform"
-  ]
- },
- {
-  "ig_rank": 20,
+  "ig_rank": 15,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "igaming ads",
@@ -537,7 +446,7 @@
   ]
  },
  {
-  "ig_rank": 21,
+  "ig_rank": 16,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming crm marketing solutions",
@@ -558,7 +467,7 @@
   ]
  },
  {
-  "ig_rank": 22,
+  "ig_rank": 17,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "how to start a online casino business",
@@ -578,7 +487,7 @@
   ]
  },
  {
-  "ig_rank": 23,
+  "ig_rank": 18,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "promote online casino",
@@ -601,7 +510,7 @@
   ]
  },
  {
-  "ig_rank": 24,
+  "ig_rank": 19,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "igaming ads networks",
@@ -623,7 +532,7 @@
   ]
  },
  {
-  "ig_rank": 25,
+  "ig_rank": 20,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "casino advertising",
@@ -641,7 +550,7 @@
   ]
  },
  {
-  "ig_rank": 26,
+  "ig_rank": 21,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming marketing",
@@ -661,45 +570,7 @@
   ]
  },
  {
-  "ig_rank": 27,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "best ad networks",
-  "size": 1,
-  "volume": 260,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 71,
-  "new_urls": 5,
-  "status": "new",
-  "url": "/post/best-ad-networks",
-  "members": [
-   "best ad networks"
-  ]
- },
- {
-  "ig_rank": 28,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "crypto ad network",
-  "size": 3,
-  "volume": 180,
-  "fruits": 6,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 13,
-  "status": "new",
-  "url": "/post/crypto-ad-network",
-  "members": [
-   "crypto ad network",
-   "crypto advertising platform",
-   "best crypto ad network"
-  ]
- },
- {
-  "ig_rank": 29,
+  "ig_rank": 22,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "gambling traffic",
@@ -721,7 +592,7 @@
   ]
  },
  {
-  "ig_rank": 30,
+  "ig_rank": 23,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "facebook gambling ads",
@@ -744,27 +615,7 @@
   ]
  },
  {
-  "ig_rank": 31,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "betting traffic",
-  "size": 3,
-  "volume": 140,
-  "fruits": 6,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 83,
-  "new_urls": 10,
-  "status": "new",
-  "url": "/post/betting-traffic",
-  "members": [
-   "betting traffic",
-   "traffic gambling",
-   "sports betting traffic"
-  ]
- },
- {
-  "ig_rank": 32,
+  "ig_rank": 24,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "casino marketing ideas",
@@ -785,7 +636,7 @@
   ]
  },
  {
-  "ig_rank": 33,
+  "ig_rank": 25,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "sports betting marketing agency",
@@ -807,7 +658,7 @@
   ]
  },
  {
-  "ig_rank": 34,
+  "ig_rank": 26,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "gambling advertising news",
@@ -825,25 +676,7 @@
   ]
  },
  {
-  "ig_rank": 35,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "self serve dsp",
-  "size": 1,
-  "volume": 110,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 8,
-  "status": "new",
-  "url": "/post/self-serve-dsp",
-  "members": [
-   "self serve dsp"
-  ]
- },
- {
-  "ig_rank": 36,
+  "ig_rank": 27,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "seo casino marketing",
@@ -862,7 +695,7 @@
   ]
  },
  {
-  "ig_rank": 37,
+  "ig_rank": 28,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "email marketing for casino and gambling industry",
@@ -883,7 +716,7 @@
   ]
  },
  {
-  "ig_rank": 38,
+  "ig_rank": 29,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "casino affiliate marketing software",
@@ -905,7 +738,26 @@
   ]
  },
  {
-  "ig_rank": 39,
+  "ig_rank": 30,
+  "pillar_id": "P1",
+  "pillar": "Platform, Ad Network & Traffic",
+  "entry": "betting traffic",
+  "size": 2,
+  "volume": 90,
+  "fruits": 4,
+  "bca_pos": null,
+  "fit": "Core",
+  "novelty_pct": 82,
+  "new_urls": 9,
+  "status": "new",
+  "url": "/post/betting-traffic",
+  "members": [
+   "betting traffic",
+   "sports betting traffic"
+  ]
+ },
+ {
+  "ig_rank": 31,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "casino traffic",
@@ -914,8 +766,8 @@
   "fruits": 3,
   "bca_pos": null,
   "fit": "Core",
-  "novelty_pct": 43,
-  "new_urls": 3,
+  "novelty_pct": 57,
+  "new_urls": 4,
   "status": "new",
   "url": "/post/casino-traffic",
   "members": [
@@ -923,7 +775,7 @@
   ]
  },
  {
-  "ig_rank": 40,
+  "ig_rank": 32,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "marketing automation igaming",
@@ -942,7 +794,7 @@
   ]
  },
  {
-  "ig_rank": 41,
+  "ig_rank": 33,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "crypto casino ads",
@@ -961,7 +813,7 @@
   ]
  },
  {
-  "ig_rank": 42,
+  "ig_rank": 34,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "igaming meaning",
@@ -980,7 +832,7 @@
   ]
  },
  {
-  "ig_rank": 43,
+  "ig_rank": 35,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "gambling marketing",
@@ -1001,25 +853,7 @@
   ]
  },
  {
-  "ig_rank": 44,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "push notification ads",
-  "size": 1,
-  "volume": 50,
-  "fruits": 1,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 8,
-  "status": "new",
-  "url": "/post/push-notification-ads",
-  "members": [
-   "push notification ads"
-  ]
- },
- {
-  "ig_rank": 45,
+  "ig_rank": 36,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "gambling ads traffic",
@@ -1038,7 +872,7 @@
   ]
  },
  {
-  "ig_rank": 46,
+  "ig_rank": 37,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "casino affiliate programme",
@@ -1057,7 +891,7 @@
   ]
  },
  {
-  "ig_rank": 47,
+  "ig_rank": 38,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "gambling push ads",
@@ -1077,7 +911,7 @@
   ]
  },
  {
-  "ig_rank": 48,
+  "ig_rank": 39,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "sports betting marketing",
@@ -1098,25 +932,7 @@
   ]
  },
  {
-  "ig_rank": 49,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "push ads network",
-  "size": 1,
-  "volume": 50,
-  "fruits": 1,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 78,
-  "new_urls": 7,
-  "status": "new",
-  "url": "/post/push-ads-network",
-  "members": [
-   "push ads network"
-  ]
- },
- {
-  "ig_rank": 50,
+  "ig_rank": 40,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "casino marketing software",
@@ -1134,7 +950,7 @@
   ]
  },
  {
-  "ig_rank": 51,
+  "ig_rank": 41,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "igaming affiliate list",
@@ -1153,7 +969,7 @@
   ]
  },
  {
-  "ig_rank": 52,
+  "ig_rank": 42,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "meta ads policy gambling news",
@@ -1171,7 +987,25 @@
   ]
  },
  {
-  "ig_rank": 53,
+  "ig_rank": 43,
+  "pillar_id": "P1",
+  "pillar": "Platform, Ad Network & Traffic",
+  "entry": "crypto casino traffic",
+  "size": 1,
+  "volume": 50,
+  "fruits": 2,
+  "bca_pos": null,
+  "fit": "Core",
+  "novelty_pct": 60,
+  "new_urls": 6,
+  "status": "new",
+  "url": "/post/crypto-casino-traffic",
+  "members": [
+   "crypto casino traffic"
+  ]
+ },
+ {
+  "ig_rank": 44,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "personalized marketing for igaming",
@@ -1189,7 +1023,7 @@
   ]
  },
  {
-  "ig_rank": 54,
+  "ig_rank": 45,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "best practices for igaming ads",
@@ -1207,25 +1041,7 @@
   ]
  },
  {
-  "ig_rank": 55,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "crypto casino traffic",
-  "size": 1,
-  "volume": 50,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 50,
-  "new_urls": 5,
-  "status": "new",
-  "url": "/post/crypto-casino-traffic",
-  "members": [
-   "crypto casino traffic"
-  ]
- },
- {
-  "ig_rank": 56,
+  "ig_rank": 46,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "tiktok advertising policy gambling",
@@ -1243,7 +1059,7 @@
   ]
  },
  {
-  "ig_rank": 57,
+  "ig_rank": 47,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "gambling influencer marketing",
@@ -1262,7 +1078,7 @@
   ]
  },
  {
-  "ig_rank": 58,
+  "ig_rank": 48,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "crypto casino affiliate program",
@@ -1280,7 +1096,7 @@
   ]
  },
  {
-  "ig_rank": 59,
+  "ig_rank": 49,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "igaming google ads",
@@ -1298,7 +1114,7 @@
   ]
  },
  {
-  "ig_rank": 60,
+  "ig_rank": 50,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "igaming traffic purchase online advertising",
@@ -1316,7 +1132,7 @@
   ]
  },
  {
-  "ig_rank": 61,
+  "ig_rank": 51,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "adsterra alternative",
@@ -1334,25 +1150,7 @@
   ]
  },
  {
-  "ig_rank": 62,
-  "pillar_id": "P4",
-  "pillar": "Affiliate Economy",
-  "entry": "chumba casino affiliate program",
-  "size": 1,
-  "volume": 80,
-  "fruits": 1,
-  "bca_pos": null,
-  "fit": "Medium",
-  "novelty_pct": 90,
-  "new_urls": 9,
-  "status": "new",
-  "url": "/post/chumba-casino-affiliate-program",
-  "members": [
-   "chumba casino affiliate program"
-  ]
- },
- {
-  "ig_rank": 63,
+  "ig_rank": 52,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "online casino advertising networks for publishers",
@@ -1371,7 +1169,7 @@
   ]
  },
  {
-  "ig_rank": 64,
+  "ig_rank": 53,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "affiliate casino traffic tools",
@@ -1389,7 +1187,7 @@
   ]
  },
  {
-  "ig_rank": 65,
+  "ig_rank": 54,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "casino media buying",
@@ -1407,7 +1205,7 @@
   ]
  },
  {
-  "ig_rank": 66,
+  "ig_rank": 55,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "igaming affiliate companies",
@@ -1427,7 +1225,7 @@
   ]
  },
  {
-  "ig_rank": 67,
+  "ig_rank": 56,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "casino affiliate marketing system",
@@ -1446,7 +1244,7 @@
   ]
  },
  {
-  "ig_rank": 68,
+  "ig_rank": 57,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "responsible gambling advertising",
@@ -1464,7 +1262,7 @@
   ]
  },
  {
-  "ig_rank": 69,
+  "ig_rank": 58,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "sports betting advertising regulation",
@@ -1482,7 +1280,7 @@
   ]
  },
  {
-  "ig_rank": 70,
+  "ig_rank": 59,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "converting casino traffic into players",
@@ -1501,7 +1299,7 @@
   ]
  },
  {
-  "ig_rank": 71,
+  "ig_rank": 60,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "white label igaming",
@@ -1521,25 +1319,7 @@
   ]
  },
  {
-  "ig_rank": 72,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "pop ads network",
-  "size": 1,
-  "volume": 20,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 78,
-  "new_urls": 7,
-  "status": "new",
-  "url": "/post/pop-ads-network",
-  "members": [
-   "pop ads network"
-  ]
- },
- {
-  "ig_rank": 73,
+  "ig_rank": 61,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "casino player acquisition",
@@ -1557,7 +1337,7 @@
   ]
  },
  {
-  "ig_rank": 74,
+  "ig_rank": 62,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "casino pay per click marketing",
@@ -1576,7 +1356,7 @@
   ]
  },
  {
-  "ig_rank": 75,
+  "ig_rank": 63,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "revshare gambling affiliate program",
@@ -1594,25 +1374,7 @@
   ]
  },
  {
-  "ig_rank": 76,
-  "pillar_id": "P5",
-  "pillar": "Growth & Marketing Strategy",
-  "entry": "casino loyalty marketing",
-  "size": 1,
-  "volume": 40,
-  "fruits": 3,
-  "bca_pos": null,
-  "fit": "Medium",
-  "novelty_pct": 89,
-  "new_urls": 8,
-  "status": "new",
-  "url": "/post/casino-loyalty-marketing",
-  "members": [
-   "casino loyalty marketing"
-  ]
- },
- {
-  "ig_rank": 77,
+  "ig_rank": 64,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "gambling affiliate traffic",
@@ -1630,7 +1392,7 @@
   ]
  },
  {
-  "ig_rank": 78,
+  "ig_rank": 65,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming marketing software",
@@ -1648,7 +1410,7 @@
   ]
  },
  {
-  "ig_rank": 79,
+  "ig_rank": 66,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "bitcoin casino affiliate program",
@@ -1666,7 +1428,7 @@
   ]
  },
  {
-  "ig_rank": 80,
+  "ig_rank": 67,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "igaming trends",
@@ -1684,7 +1446,7 @@
   ]
  },
  {
-  "ig_rank": 81,
+  "ig_rank": 68,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "best igaming affiliate software",
@@ -1703,7 +1465,7 @@
   ]
  },
  {
-  "ig_rank": 82,
+  "ig_rank": 69,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "igaming affiliate roas benchmarks",
@@ -1722,7 +1484,7 @@
   ]
  },
  {
-  "ig_rank": 83,
+  "ig_rank": 70,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "performance marketing casino",
@@ -1740,25 +1502,7 @@
   ]
  },
  {
-  "ig_rank": 84,
-  "pillar_id": "P4",
-  "pillar": "Affiliate Economy",
-  "entry": "bitstarz casino affiliate program",
-  "size": 1,
-  "volume": 30,
-  "fruits": 0,
-  "bca_pos": null,
-  "fit": "Medium",
-  "novelty_pct": 100,
-  "new_urls": 9,
-  "status": "new",
-  "url": "/post/bitstarz-casino-affiliate-program",
-  "members": [
-   "bitstarz casino affiliate program"
-  ]
- },
- {
-  "ig_rank": 85,
+  "ig_rank": 71,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "sweepstakes casino marketing",
@@ -1776,7 +1520,7 @@
   ]
  },
  {
-  "ig_rank": 86,
+  "ig_rank": 72,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming influencer marketing",
@@ -1794,7 +1538,7 @@
   ]
  },
  {
-  "ig_rank": 87,
+  "ig_rank": 73,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "best practices for casino ads",
@@ -1812,10 +1556,10 @@
   ]
  },
  {
-  "ig_rank": 88,
+  "ig_rank": 74,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
-  "entry": "taboola alternatives",
+  "entry": "propellerads alternative",
   "size": 1,
   "volume": 10,
   "fruits": 1,
@@ -1824,31 +1568,31 @@
   "novelty_pct": 100,
   "new_urls": 8,
   "status": "new",
-  "url": "/post/taboola-alternatives",
+  "url": "/post/propellerads-alternative",
   "members": [
-   "taboola alternatives"
+   "propellerads alternative"
   ]
  },
  {
-  "ig_rank": 89,
+  "ig_rank": 75,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
-  "entry": "adroll alternatives",
+  "entry": "pop-under traffic for betting campaigns",
   "size": 1,
   "volume": 10,
-  "fruits": 1,
+  "fruits": 2,
   "bca_pos": null,
   "fit": "Core",
-  "novelty_pct": 100,
-  "new_urls": 9,
+  "novelty_pct": 89,
+  "new_urls": 8,
   "status": "new",
-  "url": "/post/adroll-alternatives",
+  "url": "/post/pop-under-traffic-for-betting-campaigns",
   "members": [
-   "adroll alternatives"
+   "pop-under traffic for betting campaigns"
   ]
  },
  {
-  "ig_rank": 90,
+  "ig_rank": 76,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "us sports betting advertising spend 2023",
@@ -1866,25 +1610,7 @@
   ]
  },
  {
-  "ig_rank": 91,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "propellerads alternative",
-  "size": 1,
-  "volume": 10,
-  "fruits": 1,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 88,
-  "new_urls": 7,
-  "status": "new",
-  "url": "/post/propellerads-alternative",
-  "members": [
-   "propellerads alternative"
-  ]
- },
- {
-  "ig_rank": 92,
+  "ig_rank": 77,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "media buying igaming",
@@ -1902,7 +1628,7 @@
   ]
  },
  {
-  "ig_rank": 93,
+  "ig_rank": 78,
   "pillar_id": "P2",
   "pillar": "Vertical Advertising Playbooks",
   "entry": "igaming advertising trends 2026",
@@ -1920,7 +1646,7 @@
   ]
  },
  {
-  "ig_rank": 94,
+  "ig_rank": 79,
   "pillar_id": "P1",
   "pillar": "Platform, Ad Network & Traffic",
   "entry": "hilltopads alternative",
@@ -1938,7 +1664,7 @@
   ]
  },
  {
-  "ig_rank": 95,
+  "ig_rank": 80,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "social media marketing for gambling",
@@ -1956,25 +1682,7 @@
   ]
  },
  {
-  "ig_rank": 96,
-  "pillar_id": "P1",
-  "pillar": "Platform, Ad Network & Traffic",
-  "entry": "pop-under traffic for betting campaigns",
-  "size": 1,
-  "volume": 10,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Core",
-  "novelty_pct": 67,
-  "new_urls": 6,
-  "status": "new",
-  "url": "/post/pop-under-traffic-for-betting-campaigns",
-  "members": [
-   "pop-under traffic for betting campaigns"
-  ]
- },
- {
-  "ig_rank": 97,
+  "ig_rank": 81,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "esports betting marketing",
@@ -1992,25 +1700,7 @@
   ]
  },
  {
-  "ig_rank": 98,
-  "pillar_id": "P4",
-  "pillar": "Affiliate Economy",
-  "entry": "stake casino affiliate program",
-  "size": 1,
-  "volume": 20,
-  "fruits": 2,
-  "bca_pos": null,
-  "fit": "Medium",
-  "novelty_pct": 90,
-  "new_urls": 9,
-  "status": "new",
-  "url": "/post/stake-casino-affiliate-program",
-  "members": [
-   "stake casino affiliate program"
-  ]
- },
- {
-  "ig_rank": 99,
+  "ig_rank": 82,
   "pillar_id": "P6",
   "pillar": "Operator & Industry Resources",
   "entry": "affiliate marketing software for sportsbook",
@@ -2029,7 +1719,7 @@
   ]
  },
  {
-  "ig_rank": 100,
+  "ig_rank": 83,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "microsoft advertising gambling policy",
@@ -2047,7 +1737,7 @@
   ]
  },
  {
-  "ig_rank": 101,
+  "ig_rank": 84,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "sweepstakes casino affiliate program",
@@ -2065,7 +1755,7 @@
   ]
  },
  {
-  "ig_rank": 102,
+  "ig_rank": 85,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming marketing guide",
@@ -2083,7 +1773,7 @@
   ]
  },
  {
-  "ig_rank": 103,
+  "ig_rank": 86,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "social media marketing for betting",
@@ -2101,7 +1791,7 @@
   ]
  },
  {
-  "ig_rank": 104,
+  "ig_rank": 87,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "taboola advertising policy gambling",
@@ -2119,7 +1809,7 @@
   ]
  },
  {
-  "ig_rank": 105,
+  "ig_rank": 88,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming social media marketing",
@@ -2137,7 +1827,7 @@
   ]
  },
  {
-  "ig_rank": 106,
+  "ig_rank": 89,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "best practices for casino player acquisition",
@@ -2155,7 +1845,7 @@
   ]
  },
  {
-  "ig_rank": 107,
+  "ig_rank": 90,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "revshare for igaming affiliate programs",
@@ -2173,7 +1863,7 @@
   ]
  },
  {
-  "ig_rank": 108,
+  "ig_rank": 91,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "casino sms marketing",
@@ -2191,7 +1881,7 @@
   ]
  },
  {
-  "ig_rank": 109,
+  "ig_rank": 92,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "online casino marketing funnel",
@@ -2210,7 +1900,7 @@
   ]
  },
  {
-  "ig_rank": 110,
+  "ig_rank": 93,
   "pillar_id": "P3",
   "pillar": "Compliance & Ad Policies",
   "entry": "guide to compliant gambling advertising",
@@ -2228,25 +1918,7 @@
   ]
  },
  {
-  "ig_rank": 111,
-  "pillar_id": "P4",
-  "pillar": "Affiliate Economy",
-  "entry": "888 casino affiliate program",
-  "size": 1,
-  "volume": 10,
-  "fruits": 0,
-  "bca_pos": null,
-  "fit": "Medium",
-  "novelty_pct": 100,
-  "new_urls": 10,
-  "status": "new",
-  "url": "/post/888-casino-affiliate-program",
-  "members": [
-   "888 casino affiliate program"
-  ]
- },
- {
-  "ig_rank": 112,
+  "ig_rank": 94,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "igaming marketing attribution platform",
@@ -2264,7 +1936,7 @@
   ]
  },
  {
-  "ig_rank": 113,
+  "ig_rank": 95,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "igaming affiliate fraud",
@@ -2282,7 +1954,7 @@
   ]
  },
  {
-  "ig_rank": 114,
+  "ig_rank": 96,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "online gambling marketing solution",
@@ -2300,7 +1972,7 @@
   ]
  },
  {
-  "ig_rank": 115,
+  "ig_rank": 97,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "sports betting email marketing",
@@ -2318,7 +1990,7 @@
   ]
  },
  {
-  "ig_rank": 116,
+  "ig_rank": 98,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "casino affiliate program cpa",
@@ -2336,7 +2008,7 @@
   ]
  },
  {
-  "ig_rank": 117,
+  "ig_rank": 99,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "crypto casino marketing strategies",
@@ -2354,7 +2026,7 @@
   ]
  },
  {
-  "ig_rank": 118,
+  "ig_rank": 100,
   "pillar_id": "P5",
   "pillar": "Growth & Marketing Strategy",
   "entry": "performance marketing igaming",
@@ -2372,7 +2044,7 @@
   ]
  },
  {
-  "ig_rank": 119,
+  "ig_rank": 101,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "igaming affiliate cpa per ftd range",
@@ -2390,7 +2062,7 @@
   ]
  },
  {
-  "ig_rank": 120,
+  "ig_rank": 102,
   "pillar_id": "P4",
   "pillar": "Affiliate Economy",
   "entry": "guide to casino affiliate marketing",
